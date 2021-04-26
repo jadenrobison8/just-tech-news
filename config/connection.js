@@ -5,7 +5,7 @@ require('dotenv').config();
 
 //create the connection to our databases, pass in your MYSQL information for username and password
 //change to configure to heroku
-//const sequelize = new Sequelize('just_tech_news_db', 'root', 'F67h3Yp4578jK3', {
+//const sequelize = new Sequelize('just_tech_news_db', , {
 // const sequelize = new Sequelize(process.env.DB_NAME, process.env.DB_USER, process.env.DB_PW, {
 //     host: 'localhost',
 //     dialect: 'mysql',
